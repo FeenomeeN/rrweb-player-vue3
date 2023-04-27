@@ -8,7 +8,7 @@ export default defineConfig({
     lib: {
       entry: path.resolve(__dirname, "lib/main.ts"),
       name: "RRWebPlayer",
-      fileName: '@bpsmartdesign/rrweb-player-vue3',
+      fileName: '@feenomeen/rrweb-player-vue3',
     },
     rollupOptions: {
       external: ["vue", "rrweb"],
