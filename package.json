@@ -1,5 +1,5 @@
 {
-  "name": "@feenomeen/fen-rrweb-player-vue3",
+  "name": "@feenomeen/rrweb-player-vue3",
   "type": "module",
   "version": "1.0.9",
   "description": "Vue3-based player for [rrweb](https://github.com/rrweb-io/rrweb)",
@@ -7,8 +7,8 @@
   "module": "dist/es.js",
   "exports": {
     ".": {
-      "import": "./dist/@feenomeen/fen-rrweb-player-vue3.js",
-      "require": "./dist/@feenomeen/fen-rrweb-player-vue3.umd.cjs"
+      "import": "./dist/@feenomeen/rrweb-player-vue3.js",
+      "require": "./dist/@feenomeen/rrweb-player-vue3.umd.cjs"
     },
     "./dist/style.css": "./dist/style.css"
   },
